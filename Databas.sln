@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADOGrunder", "ADOGrunder\AD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ado1", "Ado1\Ado1.csproj", "{377D3F41-6BFA-41DD-8B88-A10EBEB38F88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoADOInsert", "DemoADOInsert\DemoADOInsert.csproj", "{7654C4ED-A8E5-4BC3-9162-36C999E8098A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoADOInsert", "DemoADOInsert\DemoADOInsert.csproj", "{7654C4ED-A8E5-4BC3-9162-36C999E8098A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ado2222", "Ado2222\Ado2222.csproj", "{360323B7-474F-4026-BF99-A283707E6BD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{7654C4ED-A8E5-4BC3-9162-36C999E8098A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7654C4ED-A8E5-4BC3-9162-36C999E8098A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7654C4ED-A8E5-4BC3-9162-36C999E8098A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{360323B7-474F-4026-BF99-A283707E6BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{360323B7-474F-4026-BF99-A283707E6BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{360323B7-474F-4026-BF99-A283707E6BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{360323B7-474F-4026-BF99-A283707E6BD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
