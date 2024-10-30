@@ -1,6 +1,4 @@
-using DemoGymRepo;
-
-namespace Ado2222
+namespace Ado3
 {
     internal static class Program
     {
@@ -13,7 +11,7 @@ namespace Ado2222
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new FormInstructor());
+            Application.Run(new Form1());
         }
     }
 }

@@ -12,7 +12,7 @@ namespace DemoGymRepo.Repository
     //Detta är en generell klass där man vill kapsla in ADO.Net
     public static class DataContext
     {
-        private static readonly string _connString = "Data Source=localhost;Initial Catalog=GymDB;Integrated Security=SSPI;TrustServerCertificate=True;";
+        private static readonly string _connString = "Data Source=LULLAK\\MSSQLSERVER01;Initial Catalog=GymDB;Integrated Security=SSPI;TrustServerCertificate=True;";
    
         //Metod Hantera select. Retunerar en datatable
         public static DataTable ExecuteQueryReturnTable(string sql, List<SqlParameter> parameters)

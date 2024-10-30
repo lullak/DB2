@@ -5,7 +5,8 @@ namespace DemoADOInsert
 {
     public partial class FormInsert : Form
     {
-        string connString = "Data Source=localhost;Initial Catalog=Northwind;Integrated Security=SSPI;TrustServerCertificate=True;";
+        string connString = "Data Source=LULLAK\\MSSQLSERVER01;Initial Catalog=Northwind;Integrated Security=SSPI;TrustServerCertificate=True;";
+        //localhost
 
         public FormInsert()
         {
